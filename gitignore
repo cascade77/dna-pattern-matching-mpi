@@ -1,0 +1,15 @@
+# binaries
+sequential
+sequential_diseased
+scheme1_data
+scheme1_diseased
+scheme2_task
+scheme3_hybrid
+inject
+seq
+*.o
+
+# large genome files
+data/chr1.fa
+data/chr1_raw.txt
+data/chr1_diseased.txt
